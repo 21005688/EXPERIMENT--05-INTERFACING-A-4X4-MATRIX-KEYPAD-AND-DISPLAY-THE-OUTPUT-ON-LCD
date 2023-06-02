@@ -183,7 +183,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ## STM 32 CUBE PROGRAM :
 Name : DEEPIKA.J
 Reg  no : 212221230016
-
+```
 #include "main.h"
 #include <stdbool.h>
 #include "lcd.h"
@@ -348,6 +348,7 @@ void key()
 						HAL_Delay(500);
 
 }
+```
 
 
 
